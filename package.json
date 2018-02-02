@@ -1,0 +1,49 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "An interactive blackjack game",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "react-dev": "webpack -d --watch",
+    "start": "node server/index.js"
+  },
+  "author": "luis alvarez",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1",
+    "json-loader": "^0.5.7",
+    "webpack-config": "^7.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "eslint": "^4.16.0",
+    "express": "^4.16.2",
+    "mocha": "^5.0.0",
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0"
+  }
+}

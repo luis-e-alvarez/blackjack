@@ -1,0 +1,47 @@
+body{
+    background: rgb(231,11,129);
+}
+.title{
+    margin-top: 10px;
+    color: white;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Playfair Display', serif;
+    font-size: 48px;
+}
+.introduction{
+    color: white;
+    padding-left: 45px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 36px;
+}
+.score{
+    margin-bottom: 10px;
+    color: white;
+    padding-left: 14px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 36px;
+}
+.name{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+}
+#input{
+    color: black;
+}
+#pull-left{
+    margin-left: 10px;
+}
+
+
