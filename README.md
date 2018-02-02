@@ -1,5 +1,5 @@
 # blackjack
-An interactive blackjack game made for Lyft's apprenticeship application
+An interactive blackjack game made for Lyft's apprenticeship application created with Node, Express, React, and React-Bootstrap
 
 #How to download
 
